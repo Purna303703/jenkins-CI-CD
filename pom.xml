@@ -3,10 +3,10 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
   <modelVersion>4.0.0</modelVersion>
   <groupId>example.demo</groupId>
-  <artifactId>helloworld</artifactId>
+  <artifactId>purna portfolio</artifactId>
   <packaging>war</packaging>
   <version>1.0-SNAPSHOT</version>
-  <name>helloworld Maven Webapp</name>
+  <name>purna portfolio Maven Webapp</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -30,7 +30,7 @@
   </dependencies>
 
   <build>
-    <finalName>helloworld</finalName>
+    <finalName>purna portfolio</finalName>
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
@@ -57,8 +57,8 @@
         <version>2.5.0</version>
         <configuration>
           <schemaVersion>v2</schemaVersion>
-          <resourceGroup>helloworld-1648163079675-rg</resourceGroup>
-          <appName>helloworld-1648163079675</appName>
+          <resourceGroup>purna portfolio-1648163079675-rg</resourceGroup>
+          <appName>purna portfolio-1648163079675</appName>
           <pricingTier>P2v2</pricingTier>
           <region>centralus</region>
           <runtime>
