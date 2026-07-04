@@ -7,10 +7,10 @@
             flex-direction: column;
             justify-content: center;
             align-items: center;
-            height: 100vh; /* స్క్రీన్ నిలువుగా (Vertical) కూడా సెంటర్ అవ్వడానికి */
+            height: 100vh;
             margin: 0;
-            font-family: Arial, sans-serif; /* చూడటానికి బాగుండటం కోసం */
-            text-align: center; /* టెక్స్ట్ అంతా సెంటర్ అవ్వడానికి */
+            font-family: Arial, sans-serif;
+            text-align: center;
         }
     </style>
 </head>
