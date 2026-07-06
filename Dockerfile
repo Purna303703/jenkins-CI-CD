@@ -10,7 +10,7 @@ RUN mvn clean package
 
 FROM tomcat:10.0.27-jdk17-temurin
 
-COPY --from=build /app/target/portfolio.war /usr/local/tomcat/webapps/
+COPY --from=build /app/target/purna-portfolio.war /usr/local/tomcat/webapps/
 
 EXPOSE 8080
 
